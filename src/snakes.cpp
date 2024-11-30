@@ -23,7 +23,7 @@ std::ostringstream sha_temp; // a temporary variable to convert int to string
 
    Apart from these some definitions are also there.
 */
-class SHA256
+class SHA256 //hey
 {
 protected:
     typedef unsigned char uint8;
